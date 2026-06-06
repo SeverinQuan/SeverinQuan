@@ -42,6 +42,8 @@ Project-derived stack from repositories I actively maintain: FastAPI/Jinja syste
  </picture>
 </div>
 
+Project libraries without stable CDN icons: Jinja2, SQLAlchemy, Uvicorn, Koa, TypeORM, PyMySQL, WebSocket, Web Bluetooth, WebWorker, pytest, vue-tsc.
+
 ```text
 Backend      Python, FastAPI, Jinja2, SQLAlchemy, Uvicorn, Koa
 Frontend     Vue, TypeScript, Vite, JavaScript, HTML, CSS, SCSS, Tailwind CSS
