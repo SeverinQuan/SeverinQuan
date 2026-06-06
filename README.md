@@ -42,7 +42,15 @@ Project-derived stack from repositories I actively maintain: FastAPI/Jinja syste
  </picture>
 </div>
 
-Project libraries without stable CDN icons: Jinja2, SQLAlchemy, Uvicorn, Koa, TypeORM, PyMySQL, WebSocket, Web Bluetooth, WebWorker, pytest, vue-tsc.
+<p align="center">
+ <img src="https://cdn.simpleicons.org/jinja/B41717" width="42" height="42" alt="Jinja2" title="Jinja2">
+ <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="42" height="42" alt="SQLAlchemy" title="SQLAlchemy">
+ <img src="https://cdn.simpleicons.org/koa/33333D" width="42" height="42" alt="Koa" title="Koa">
+ <img src="https://cdn.simpleicons.org/typeorm/FE0803" width="42" height="42" alt="TypeORM" title="TypeORM">
+ <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="42" height="42" alt="pytest" title="pytest">
+</p>
+
+Icon sources: SkillIcons for the broad stack, Simple Icons for project libraries. Libraries kept as text because they do not currently have stable matching icons in those CDNs: Uvicorn, PyMySQL, WebSocket, Web Bluetooth, WebWorker, vue-tsc.
 
 ```text
 Backend      Python, FastAPI, Jinja2, SQLAlchemy, Uvicorn, Koa
