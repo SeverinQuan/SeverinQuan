@@ -32,22 +32,23 @@ Idea -> Prototype -> Usable Demo -> Reliable Tool -> Documented System
 
 ## Skills & Toolsets
 
-Project-weighted stack from my current work: personal FastAPI systems, Vue/TypeScript device-control interfaces, AI-native workflow tools, deployment hardening, and cross-border commerce automation.
+Project-derived stack from repositories I actively maintain: FastAPI/Jinja systems, Vue/TypeScript device-control interfaces, Node/Koa services, database-backed content tools, and deployment scripts.
 
 <div align="center">
  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Ctypescript%2Cvue%2Cvite%2Cnodejs%2Cjs%2Chtml%2Ccss%2Csass%2Ctailwind%2Csqlite%2Cmysql%2Cpostgresql%2Credis%2Cnginx%2Ccloudflare%2Cvercel%2Cnetlify%2Cdocker%2Cgithubactions%2Cgit%2Cgithub%2Cdebian%2Cbash%2Cvscode%2Creact%2Cnextjs%2Cpytorch%2Csklearn%2Cblender%2Cphotoshop&theme=dark&perline=8">
- <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Ctypescript%2Cvue%2Cvite%2Cnodejs%2Cjs%2Chtml%2Ccss%2Csass%2Ctailwind%2Csqlite%2Cmysql%2Cpostgresql%2Credis%2Cnginx%2Ccloudflare%2Cvercel%2Cnetlify%2Cdocker%2Cgithubactions%2Cgit%2Cgithub%2Cdebian%2Cbash%2Cvscode%2Creact%2Cnextjs%2Cpytorch%2Csklearn%2Cblender%2Cphotoshop&theme=light&perline=8">
- <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,vue,vite,nodejs,js,html,css,sass,tailwind,sqlite,mysql,postgresql,redis,nginx,cloudflare,vercel,netlify,docker,githubactions,git,github,debian,bash,vscode,react,nextjs,pytorch,sklearn,blender,photoshop&theme=light&perline=8" alt="Project-weighted skills and toolsets">
+ <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Ctypescript%2Cvue%2Cvite%2Cnodejs%2Cjs%2Chtml%2Ccss%2Csass%2Ctailwind%2Csqlite%2Cmysql%2Cpostgresql%2Cnginx%2Cgithubactions%2Cgit%2Cgithub%2Cdebian%2Cbash%2Cvscode&theme=dark&perline=8">
+ <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Ctypescript%2Cvue%2Cvite%2Cnodejs%2Cjs%2Chtml%2Ccss%2Csass%2Ctailwind%2Csqlite%2Cmysql%2Cpostgresql%2Cnginx%2Cgithubactions%2Cgit%2Cgithub%2Cdebian%2Cbash%2Cvscode&theme=light&perline=8">
+ <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,vue,vite,nodejs,js,html,css,sass,tailwind,sqlite,mysql,postgresql,nginx,githubactions,git,github,debian,bash,vscode&theme=light&perline=8" alt="Project-derived skills and toolsets">
  </picture>
 </div>
 
 ```text
-Backend & AI      Python, FastAPI, SQLAlchemy, LLM integrations, MCP-style workflows
-Frontend & UI     Vue, TypeScript, Vite, Jinja2, Tailwind CSS, SCSS, React experiments
-Data & Infra      MySQL, SQLite, PostgreSQL-ready services, Redis, Nginx, Cloudflare
-Tooling           Git, GitHub Actions, Bash, Debian/Linux, VS Code, deployment scripts
-Creative          Product demos, visual systems, Blender / Photoshop-assisted assets
+Backend      Python, FastAPI, Jinja2, SQLAlchemy, Uvicorn, Koa
+Frontend     Vue, TypeScript, Vite, JavaScript, HTML, CSS, SCSS, Tailwind CSS
+Data         MySQL, SQLite, PostgreSQL-ready services, TypeORM, PyMySQL
+Runtime      Node.js, WebSocket, Web Bluetooth, WebWorker, Linux services
+Tooling      Git, GitHub Actions, Bash, Debian/Linux, VS Code, Nginx
+Testing      pytest, vue-tsc, TypeScript compiler
 ```
 
 ## Repository Structure
