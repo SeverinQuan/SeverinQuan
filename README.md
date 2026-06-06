@@ -30,14 +30,15 @@ Idea -> Prototype -> Usable Demo -> Reliable Tool -> Documented System
 - MCP and agent-based automation
 - Research notes on digital trade, AI products, and tool ecosystems
 
-## Tech I Often Use
+## Skills & Toolsets
 
-```text
-Python        FastAPI        SQLAlchemy
-TypeScript    Vue            React
-Node.js       Tailwind CSS    MySQL / SQLite
-OpenAI API    MCP            GitHub Actions
-```
+<div align="center">
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Chtml%2Ccss%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cvscode%2Cbash%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cphotoshop&theme=dark&perline=12">
+ <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Chtml%2Ccss%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cvscode%2Cbash%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cphotoshop&theme=light&perline=12">
+ <img src="https://skillicons.dev/icons?i=python,c,rust,typescript,pytorch,sklearn,html,css,react,vite,nodejs,nextjs,sass,tailwind,jest,django,fastapi,supabase,sqlite,postgresql,redis,cloudflare,vercel,netlify,nginx,docker,vscode,bash,blender,matlab,godot,github,git,debian,xd,photoshop&theme=light&perline=12" alt="My Skills">
+ </picture>
+</div>
 
 ## Repository Structure
 
