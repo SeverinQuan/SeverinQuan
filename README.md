@@ -32,13 +32,23 @@ Idea -> Prototype -> Usable Demo -> Reliable Tool -> Documented System
 
 ## Skills & Toolsets
 
+Project-weighted stack from my current work: personal FastAPI systems, Vue/TypeScript device-control interfaces, AI-native workflow tools, deployment hardening, and cross-border commerce automation.
+
 <div align="center">
  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Chtml%2Ccss%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cvscode%2Cbash%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cphotoshop&theme=dark&perline=12">
- <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cc%2Crust%2Ctypescript%2Cpytorch%2Csklearn%2Chtml%2Ccss%2Creact%2Cvite%2Cnodejs%2Cnextjs%2Csass%2Ctailwind%2Cjest%2Cdjango%2Cfastapi%2Csupabase%2Csqlite%2Cpostgresql%2Credis%2Ccloudflare%2Cvercel%2Cnetlify%2Cnginx%2Cdocker%2Cvscode%2Cbash%2Cblender%2Cmatlab%2Cgodot%2Cgithub%2Cgit%2Cdebian%2Cxd%2Cphotoshop&theme=light&perline=12">
- <img src="https://skillicons.dev/icons?i=python,c,rust,typescript,pytorch,sklearn,html,css,react,vite,nodejs,nextjs,sass,tailwind,jest,django,fastapi,supabase,sqlite,postgresql,redis,cloudflare,vercel,netlify,nginx,docker,vscode,bash,blender,matlab,godot,github,git,debian,xd,photoshop&theme=light&perline=12" alt="My Skills">
+ <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Ctypescript%2Cvue%2Cvite%2Cnodejs%2Cjs%2Chtml%2Ccss%2Csass%2Ctailwind%2Csqlite%2Cmysql%2Cpostgresql%2Credis%2Cnginx%2Ccloudflare%2Cvercel%2Cnetlify%2Cdocker%2Cgithubactions%2Cgit%2Cgithub%2Cdebian%2Cbash%2Cvscode%2Creact%2Cnextjs%2Cpytorch%2Csklearn%2Cblender%2Cphotoshop&theme=dark&perline=8">
+ <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Ctypescript%2Cvue%2Cvite%2Cnodejs%2Cjs%2Chtml%2Ccss%2Csass%2Ctailwind%2Csqlite%2Cmysql%2Cpostgresql%2Credis%2Cnginx%2Ccloudflare%2Cvercel%2Cnetlify%2Cdocker%2Cgithubactions%2Cgit%2Cgithub%2Cdebian%2Cbash%2Cvscode%2Creact%2Cnextjs%2Cpytorch%2Csklearn%2Cblender%2Cphotoshop&theme=light&perline=8">
+ <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,vue,vite,nodejs,js,html,css,sass,tailwind,sqlite,mysql,postgresql,redis,nginx,cloudflare,vercel,netlify,docker,githubactions,git,github,debian,bash,vscode,react,nextjs,pytorch,sklearn,blender,photoshop&theme=light&perline=8" alt="Project-weighted skills and toolsets">
  </picture>
 </div>
+
+```text
+Backend & AI      Python, FastAPI, SQLAlchemy, LLM integrations, MCP-style workflows
+Frontend & UI     Vue, TypeScript, Vite, Jinja2, Tailwind CSS, SCSS, React experiments
+Data & Infra      MySQL, SQLite, PostgreSQL-ready services, Redis, Nginx, Cloudflare
+Tooling           Git, GitHub Actions, Bash, Debian/Linux, VS Code, deployment scripts
+Creative          Product demos, visual systems, Blender / Photoshop-assisted assets
+```
 
 ## Repository Structure
 
